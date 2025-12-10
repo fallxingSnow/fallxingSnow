@@ -1,7 +1,5 @@
-<!-- Cute header gifs -->
 <p align="center">
-  <img src="https://media.tenor.com/3uM-9WcCYHAAAAAC/cute.gif" width="160" />
-  <img src="https://media.tenor.com/NO3bvCdm42cAAAAi/mikonay.gif" width="160" />
+  <img src="https://media1.tenor.com/m/ldqrabHZp6UAAAAC/cute.gif" width="160" />
 </p>
 
 <h1 align="center">hey, i'm michelle 👋</h1>
@@ -24,13 +22,11 @@
 ## tech & tools
 
 <p align="left">
-  <!-- Core stack -->
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=000000" />
 
-  <!-- Ecosystem / common tools -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
@@ -49,27 +45,15 @@
 
 ## currently playing
 
-<!--
-To enable this, deploy a Spotify "now playing" service (for example from a public template)
-and update the src/href below with your own deployment URL.
--->
-
-[![spotify now playing](https://YOUR-SPOTIFY-CARD-DOMAIN.vercel.app/api/view?uid=tz5hq29mrre7yvi3ujcl1oigp&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/tz5hq29mrre7yvi3ujcl1oigp)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tz5hq29mrre7yvi3ujcl1oigp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
 ## github stats
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fallxingSnow&show_icons=true&theme=tokyonight"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallxingSnow&layout=compact&theme=tokyonight"
-    height="150"
-  />
-</p>
+![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallxingSnow&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallxingSnow&layout=compact&theme=tokyonight)
 
 ---
 
