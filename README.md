@@ -51,9 +51,7 @@
 
 ## github stats
 
-![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallxingSnow&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallxingSnow&layout=compact&theme=tokyonight)
+![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallxingSnow&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
